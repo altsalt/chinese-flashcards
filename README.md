@@ -3,7 +3,7 @@ chinese-flashcards
 
 [Anki](http://ankisrs.net) flashcards for Chinese 101, 102, and 103 at the University of Washington during the 2014-15 school year.
 
-The class textbook is Integrated Chinese Level 1, Third Edition.
+The class textbook is [Integrated Chinese](https://www.cheng-tsui.com/browse/integrated-chinese) Level 1, Third Edition.
 
 These cards were created with Anki 2.0.11 using the [Chinese support plugin](https://ankiweb.net/shared/info/3448800906) 0.9.2
 
@@ -46,7 +46,7 @@ Recommended settings
 
 Version History
 --------------------------------------------------
-- v1.0 goes through 101
+- v1.0 goes through 101, lessons 1-5
 - v2.0 will go through 102
 - v3.0 will go through 103
 
