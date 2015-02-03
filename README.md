@@ -59,4 +59,8 @@ Please submit any issues on GitHub or let me know in class.
 
 Remember to use these as a resource, not a replacement, in your studies.
 
+Audio is occasionally not correct, refer to recordings.
+
+Phrase pinyin has not been checked as thoroughly.
+
 Enjoy!
