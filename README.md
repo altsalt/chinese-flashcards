@@ -61,6 +61,8 @@ Remember to use these as a resource, not a replacement, in your studies.
 
 Audio is occasionally not correct, refer to recordings.
 
-Phrase pinyin has not been checked as thoroughly.
+Phrase pinyin has not been thoroughly checked.
+
+Included font is "AR PL UKai CN".
 
 Enjoy!
